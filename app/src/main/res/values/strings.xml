@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practice16_17</string>
+    <string name="light">Сменить на светлую</string>
+    <string name="night">Сменить на тёмную</string>
+    <string name="tema">Сменить тему :) </string>
+    <string name="o_program">"""
+Эта программа меняет тему на светлую и тёмную, так же изменяет текст
+Разработчик программы: Катёна Овчаренко ^_^
+    """</string>
+</resources>
